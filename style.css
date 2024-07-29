@@ -18,7 +18,7 @@ body, html {
 }
    
 .bg-image {
-    background-image: url('Image1.jpg'); 
+    background-image: url(images/Image1.jpg);
     height: 100%; 
     width: 100%;
     position: fixed;
@@ -68,6 +68,7 @@ input, button, select {
 .quantity-container button {
     width: 40px;
     height: 40px;
+    padding: 0px;
     font-size: 1.5em;
 }
 
